@@ -1,0 +1,25 @@
+[2022-09-13 04:05:01.107] [exthost] [info] Extension host with pid 252 started
+[2022-09-13 04:05:01.112] [exthost] [error] Error: EEXIST: file already exists, open '/root/.vscode-server/data/User/workspaceStorage/0ae2d5a0c51fa0bdaf3972e0f30a6152/vscode.lock'
+[2022-09-13 04:05:01.119] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/0ae2d5a0c51fa0bdaf3972e0f30a6152/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-09-13 04:05:01.121] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/0ae2d5a0c51fa0bdaf3972e0f30a6152/vscode.lock': The pid 278 appears to be gone.
+[2022-09-13 04:05:01.122] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/0ae2d5a0c51fa0bdaf3972e0f30a6152/vscode.lock': Deleting a stale lock.
+[2022-09-13 04:05:01.128] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/0ae2d5a0c51fa0bdaf3972e0f30a6152/vscode.lock': Lock acquired.
+[2022-09-13 04:05:01.231] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-13 04:05:01.247] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-13 04:05:01.256] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-13 04:05:01.312] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-13 04:05:01.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-13 04:05:01.635] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-13 04:05:01.658] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-13 04:05:01.664] [exthost] [info] Eager extensions activated
+[2022-09-13 05:40:41.155] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2123
+[2022-09-13 05:40:43.718] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2123
+[2022-09-13 05:40:48.793] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2123
+[2022-09-13 05:40:53.855] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2123
+[2022-09-13 05:40:58.915] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2123
+[2022-09-13 05:41:03.972] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2123
+[2022-09-13 05:41:09.032] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2123
+[2022-09-13 05:41:14.084] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2123
+[2022-09-13 07:15:04.441] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2145
+[2022-09-13 07:15:07.909] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2145
+[2022-09-13 07:15:12.978] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2145

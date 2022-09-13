@@ -1,0 +1,5 @@
+[user]
+	name = rikuriku1999
+	email = kalashnikova1120@gmail.com
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/node /tmp/vscode-remote-containers-e4e7aca646cbea8f2d4583596fbf8ba1d90faa4b.js $*; }; f"

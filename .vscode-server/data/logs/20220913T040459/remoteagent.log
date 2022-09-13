@@ -1,0 +1,7 @@
+[2022-09-13 04:04:59.148] [remoteagent] [info] Extension host agent started.
+[2022-09-13 04:04:59.369] [remoteagent] [debug] ComputeTargetPlatform: linux-x64
+[2022-09-13 04:04:59.553] [remoteagent] [info] [127.0.0.1][3e9084f8][ManagementConnection] New connection established.
+[2022-09-13 04:04:59.975] [remoteagent] [info] [127.0.0.1][ade7eadd][ExtensionHostConnection] New connection established.
+[2022-09-13 04:05:00.021] [remoteagent] [info] [127.0.0.1][ade7eadd][ExtensionHostConnection] <252> Launched Extension Host Process.
+[2022-09-13 05:40:37.225] [remoteagent] [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[2022-09-13 07:14:55.908] [remoteagent] [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
