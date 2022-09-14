@@ -1,0 +1,8 @@
+.ssh
+.gnupg
+.bash_history
+.bashrc
+.gitconfig
+.profile
+.wget-hsts
+.cache
